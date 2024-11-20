@@ -1,2 +1,9 @@
-globalInventoryData.java 16-18, MagicNumber, Used some integers that aren't explained why that was used.
- 
+globalInventoryData.java, 16-18, MagicNumber, Used some integers that aren't explained why that was used.
+inventorySystem.java, 41-42, LongParameterList, Used way to many(more than 3) parameters.
+inventorySystem.java, 44-48, ConditionalComplexity, Used way too many if, nested if statements.
+inventorySystem.java, 41-67, ShotgunSurgery, Change in one place will ensure changes in other places.
+inventorySystem.java, 41-72 74-102 132-167, LongFunction, Way too long function(too many responsibilities)
+inventorySystem.java, 1-198, LargeClass, Way too large class with way too many responsibilities.
+inventorySystem.java, 78-97, Switch case, Use of switch case.
+inventorySystem.java, 104-130, 170-196, Duplicated code, Similar types of code written.
+inventorySystem.java, 78-97, MagicNumber, Used some numbers that aren't explained why that was used.
