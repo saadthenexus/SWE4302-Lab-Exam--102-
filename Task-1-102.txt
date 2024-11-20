@@ -1,0 +1,2 @@
+globalInventoryData.java 16-18, MagicNumber, Used some integers that aren't explained why that was used.
+ 
