@@ -22,5 +22,4 @@ public class OrderTest {
         assertEquals(2.75, order.getPrice());
     }
 
-
 }
